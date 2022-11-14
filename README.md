@@ -6,7 +6,7 @@
 
 This is the Arduino IDE code for the ESP8266 (ESP-12E) to request both, temperature and humidity from the DHT11 sensor. As before the ESP8266 connects to a wireless network and outputs a website (and the values on a separate route). The code is based on the code offered by Bastelbruder with his YouTube Video https://www.youtube.com/watch?v=23_G6gQVxog:
 
-[![](https://img.youtube.com/vi/23_G6gQVxog/0.jpg)](https://www.youtube.com/watch?v=23_G6gQVxog)
+<a href="https://www.youtube.com/watch?v=23_G6gQVxog" target="_blank"><img src="https://img.youtube.com/vi/23_G6gQVxog/0.jpg" style="width: 100%"></a>
 
 
 ## Modifications
