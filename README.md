@@ -1,5 +1,4 @@
 # DHT11 - Temperature and Humidity from DHT11
-=============================================
 
 
 ## Origin
