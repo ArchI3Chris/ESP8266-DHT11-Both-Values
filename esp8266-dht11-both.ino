@@ -1,5 +1,5 @@
 /* Temperaturanzeige 
- * Version 1.1 vom 14.11.2022
+ * Version 1.1.0 vom 14.11.2022
  * Original by Der Bastelbruder (https://www.youtube.com/watch?v=23_G6gQVxog - https://www.youtube.com/channel/UCMGqOyxbKXgnbDSe7DfkLow)
  * Modification by ArchI3Chris https://github.com/ArchI3Chris
  * this code can be copied/used/modified freely provided this source statement remains included
