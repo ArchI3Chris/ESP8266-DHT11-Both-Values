@@ -1,9 +1,9 @@
 /* Temperaturanzeige 
- * Version 1.0 vom 15.05.2021
- * Original by Der Bastelbruder (https://www.youtube.com/watch?v=23_G6gQVxog)
- * https://www.youtube.com/channel/UCMGqOyxbKXgnbDSe7DfkLow
+ * Version 1.1 vom 14.11.2022
+ * Original by Der Bastelbruder (https://www.youtube.com/watch?v=23_G6gQVxog - https://www.youtube.com/channel/UCMGqOyxbKXgnbDSe7DfkLow)
+ * Modification by ArchI3Chris https://github.com/ArchI3Chris
+ * this code can be copied/used/modified freely provided this source statement remains included
  * Code kann mit Quellenangabe frei verwendet werden;)
- * this modified version by ArchI3Chris https://github.com/ArchI3Chris
  */
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
